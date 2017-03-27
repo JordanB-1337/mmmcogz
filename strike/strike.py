@@ -18,7 +18,7 @@ from enum import Enum
 from __main__ import send_cmd_help
 
 colour = '099999'
-default_warn = ("OK, user.mention now has warn.count strikes. :warn:"
+default_warn = ("OK, user.mention now has warn.count strikes. :warning: "
                 "Collect warn.limit and you get banned!!!! "
                 "")
 default_max = 3
